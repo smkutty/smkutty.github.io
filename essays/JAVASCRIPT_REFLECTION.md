@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: INSERT TITLE
+title: Efficiently Sacraligious
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-03
 labels:
   - Software Engineering
   - Learning
 ---
+Thomas Edison once said: <i> "Hell there are no rules here - we're trying to accomplish something" </i>
 
 After having experienced two immersive courses utilizing Java and C/C++, navigating the world of Javascript is certainly a change of pace and style. While both Java and C++ offer a powerful command over programming, the rules associated with these languages are stringent and vast, which makes writing code in these languages a tedious and arduous task. But suddenly I find myself forming programs with hardly any thought about regulations and feeling like I am cutting corners willy nilly. Javascript is the rebellious sibling of Java that, for all intents and purposes, does what it is supposed to but allows for numerous opportunities to streamline the overall process of coding.
 
