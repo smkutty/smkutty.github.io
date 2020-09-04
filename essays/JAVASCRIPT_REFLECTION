@@ -1,17 +1,15 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: INSERT TITLE
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2020-09-03
 labels:
   - Software Engineering
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
-
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+After having experienced two immersive courses utilizing Java and C/C++, navigating the world of Javascript is certainly a change of pace and style. While both Java and C++ offer a powerful command over programming, the rules associated with these languages are stringent and vast, which makes writing code in these languages a tedious and arduous task. But suddenly I find myself forming programs with hardly any thought about regulations and feeling like I am cutting corners willy nilly. Javascript is the rebellious sibling of Java that, for all intents and purposes, does what it is supposed to but allows for numerous opportunities to streamline the overall process of coding.
 
 <img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
 
