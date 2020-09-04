@@ -18,6 +18,8 @@ In an odd way, writing in Javascript almost feels sacrilegious--as if I am activ
 
 From a software engineering perspective, Javascript is ideal for its purpose. You are given the ability to be more concerned with user interface, particularly with accessing information from the user and providing information back. The malleability of Javascript provides room for further simplifying code. With that said, Javascript should not be used outside its intent. It would be like using a plane to fly to the moon. 
 
+<img class="ui medium left floated image" src="../images/rtfm.png">
+
 When put to the test during a flash challenge of 15 minutes or less to write a predetermined program, Javascript is fantastic. The initial idea of this high pressure task was daunting, but after experiencing three cases so far, I am confident that it can become easier. However, becoming more knowledgeable with Javascript syntax and functions is essential. Building fluency in the language and strengthening my ability to develop solutions in the form of algorithms are the two most important keys to making these challenges less stressful. But despite the pressure, it is still enjoyable to work with a peer and formulate a game plan on how to tackle a problem. In this way we learn our strengths, our weaknesses, and utlimately how to communicate effectively. Real world experience--what a concept!
 
 
