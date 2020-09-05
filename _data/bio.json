@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/IMJG_6850.png",
     "email": "kuttys@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "808-779-7698",
     "website": "https://smkutty.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
@@ -36,7 +36,7 @@
     {
       "name": "Computer Science",
       "keywords": [
-        "Computer Science",
+        "Data Science",
         "Bioinformatics"
       ]
     },
@@ -72,6 +72,17 @@
       "level": "",
       "keywords": [
         "MacOS",
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "English",
+        "Malayalam",
+        "Spanish",
+        "Hindi",
+        "Modern Standard Arabic"
       ]
     }
   ],
@@ -134,19 +145,6 @@
       "highlights": [
         "Helped develop new onsite aquaponics system",
         "Painted murals for specimen display"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
