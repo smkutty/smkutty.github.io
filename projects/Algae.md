@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Novel Implementation of Chlorophytes and Rhodophytes
-permalink: projects/algae
+permalink: projects/Algae
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-03
 labels:
