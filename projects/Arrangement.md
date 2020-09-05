@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/violin.png
 title: Arrangement "For U"
 permalink: projects/Arrangement
 # All dates must be YYYY-MM-DD format!
