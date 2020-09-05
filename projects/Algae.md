@@ -20,8 +20,8 @@ summary: A a two year team research project focused on utilizing invasive macroa
 <p>Based on these results, it was determined that the two species can be utilized towards four specific sub-projects. <i>Avrainvillea ama.</i> shows promise for ethanol production and is a viable resource for lignin extraction. Through Scanning Electron Microscopy, it was found that fermentation managed to break down the cell wall of the red algal species. Then, this lignin can then be used to create a variety of paper products but most importantly, carbon nanofibers - the future of technology.</p> 
 <p>Conversely, <i>Eucheuma sp</i> should be used as fertilizer and animal feed. Further testing proved that this species is a superior fertilizer in comparison to today’s four most commonly used products. <i>Eucheuma sp.</i> can also be used as animal feed, reducing the need to rely on vast amounts of land and water to sustain the animal agriculture industry. Thus, we found environmentally friendly and cost-sustainable ways to utilize various types of macroalgae through a novel process of fermentation.</p>
 
-<img class="ui medium left floated image" src="../images/eucheuma.jpg">
-<img class="ui medium left floated image" src="../images/avrainvillea.jpg">
+<img class="ui small left floated image" src="../images/eucheuma.jpg">
+<img class="ui small left floated image" src="../images/avrainvillea.jpg">
 
 ## A Closer Look at the Algal Culprits
 <p>Both <i>Avrainvillea amadelpha</i> and <i>Eucheuma spinosum</i> wreak havoc to coastal marine ecosystem. Their rapid growth rate and ability to grow in variable environmental conditions allow them to dominate coral landscapes, descimating marine life. This is particularly harmful for Hawai'i, as it is home to thousands of native species found uniquely in these waters. Organizations suchs Kupu and the Hawai'i Nature Conservancy actively work to clean up these species </p>
