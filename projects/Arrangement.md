@@ -22,4 +22,5 @@ summary: A string arrangement for 3 violins, 2 cellos, and 1 viola
 <p>"The Time of my Life" - Bill Medley and Jennifer Warnes</p>
 <p>"Gone, Gone, Gone" - Philip Philips</p>
 
-
+<h4>The Process and Challenges</h4>
+<p>It was certainly a challenge to write sheet music from pop songs that are often not in a particular time signature. For example "The Time of my Life" and "I'll be there for you" (two songs featured in film and television, respectivel) proved to be especially difficult to write due to their irregular timing and pop sway (in terms of classical music). Me being a classically trained musician, this part felt like putting circular pegs into square holes--it just didnt't make sense. Eventually music was able to fit with some minor changes to rhythm combinations. A second challenge was having to consider each member's caliber of playing. There were six seniors, including me. And not everyone was at the same skill level. Because of this, some parts had to be simplified and, to make up for the loss of this portion, some parts were made to be more complex. At the end of the day, the piece </p>
