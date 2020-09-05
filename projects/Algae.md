@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/redalgae.jpg
 title: Novel Implementation of Chlorophytes and Rhodophytes
 permalink: projects/Algae
 # All dates must be YYYY-MM-DD format!
