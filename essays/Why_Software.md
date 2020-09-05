@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
+<img class="ui medium left floated image" src="../images/innovate.png">
 
 ## Innovation and Creativity
 
