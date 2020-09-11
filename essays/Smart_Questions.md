@@ -10,6 +10,7 @@ labels:
 # The Art of Asking Questions
 
 ## Communication
+<img class="ui medium right floated image" src="../images/remotework.jpg">
 <p>Software engineering is a collaborative experience, and in any such setting, communication is of utmost importance. This is particularly apparent in the current work atmosphere as many people have been forced to work remotely, so relaying information both effectively and efficiently has never been more crucial. The ability to ask questions is often overlooked when it comes to communication. Eric Raymond provides a detailed analysis on the art of asking questions in his essay "How To Ask Questions The Smart Way". Raymond lays out a general checklist of concepts to consider when asking questions in a technological environment and provides a number of "good" and "bad" examples. His checklist is particularly applicable in a written format such as emails or team chats, both popular methods of communication in group work. </p>
 
 ## A Smart Example
@@ -17,12 +18,14 @@ labels:
 
 [A Good Example](https://stackoverflow.com/questions/39803237/build-hashset-from-a-vector-in-rust)
 
-<p>Upon opening this link, we are presented with a highly organized question that includes some key qualities mentioned in Raymond's essay. First and foremost, the subject title is concise and provides important pieces of information--what they want to do and the language they are using. Instead of simply asking "how do I do 'this'?", the first portion of the question provides a very precise goal with stipulations. They then show their current strategy, the error message, and what they actually want to achieve. Because of this straightfoward message, Because of the straightforwardness and clarity of this proposition, other users were able to offer solutions without having to start a long thread. </p>
+<p>Upon opening this link, we are presented with a highly organized question that includes some key qualities mentioned in Raymond's essay. First and foremost, the subject title is concise and provides important pieces of information--what they want to do and the language they are using. In this way, just by reading the subject line, you can somewhat expect before opening the full message. In this way, you can also figure out if this is a question you are able to provide assistance with. In the message of this question, instead of simply asking "how do I do 'this'?", the first portion provides a very precise goal with stipulations. They then show their current strategy, the error message, and what they actually want to achieve. Because of this straightfoward message, Because of the straightforwardness and clarity of this proposition, other users were able to offer solutions without having to start a long thread. </p>
 
 ## A Not-so Smart Example
 <p>Now here we have an example of a question that is not only hard to follow but is also rather vague</p>
 
 [A Bad Example](https://stackoverflow.com/questions/50946500/unable-to-redirect-from-one-page-to-another-page)
+
+<p>While the title of this question is not the worst, it is still difficult to know what to expect as we saw with the previous example. Sure, we can probably guess it has something to do with HTML, but upon further investigation, the HTML portion is only a piece of the problem. The body of the message then goes directly into four chunks of code ---</p>
 
 ## Personal Experiences
 <img class="ui medium left floated image" src="../images/techsupport.jpg">
