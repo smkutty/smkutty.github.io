@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: INSERT A TITLE
+title: The Art of Asking Questions
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-10
 labels:
   - Learning
 ---
+# The Art of Asking Questions
 
 ## Communication
 <p>Software engineering is a collaborative experience, and in any such setting, communication is of utmost importance. This is particularly apparent in the current work atmosphere as many people have been forced to work remotely, so relaying information both effectively and efficiently has never been more crucial. The ability to ask questions is often overlooked when it comes to communication. Eric Raymond provides a detailed analysis on the art of asking questions in his essay "How To Ask Questions The Smart Way". Raymond lays out a general checklist of concepts to consider when asking questions in a technological environment and provides a number of "good" and "bad" examples. His checklist is particularly applicable in a written format such as emails or team chats, both popular methods of communication in group work. </p>
