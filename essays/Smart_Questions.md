@@ -13,12 +13,12 @@ labels:
 <p>Eric Raymond provides a </p>
 
 ## A Smart Example
-<p>Here we have an example of a well thought out question on StackOverflow--the programmer's hub for all things necessary. Upon opening this link, we are presented with a highly organized question that includes some key qualities mentioned in Raymond's essay. First and foremost, the subject title is concise and provides important pieces of information </p>
+<p>Here we have an example of a well thought out question on StackOverflow--the programmer's hub for all things necessary. Upon opening this link, we are presented with a highly organized question that includes some key qualities mentioned in Raymond's essay. First and foremost, the subject title is concise and provides important pieces of information--what they want to do and the language they are using. Instead of simply asking "how do I do 'this'?", the first portion of the question provides a very precise goal with stipulations. They then show their current strategy, the error message, and what they actually want to achieve. Because of this straightfoward message, Because of the straightforwardness and clarity of this proposition, other users were able to offer solutions without having to start a long thread. </p>
+
+https://stackoverflow.com/questions/39803237/build-hashset-from-a-vector-in-rust
 
 ## A Not-so Smart Example
 
 https://stackoverflow.com/questions/1657465/nhibernate-transactions-on-reads
-
-https://stackoverflow.com/questions/39803237/build-hashset-from-a-vector-in-rust
 
 https://stackoverflow.com/search?page=3&tab=Relevance&q=RTFM
