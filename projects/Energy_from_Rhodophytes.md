@@ -3,13 +3,12 @@ layout: project
 type: project
 image: images/gorilla.jpg
 title: Energy From Rhodophytes: A New Implementation of Red Algae as a Source of Biomass
-permalink: projects/Red_Algae
+permalink: projects/Rhodophytes
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-03
 labels:
-  - Health and Wellness
-  - App Development
-summary: Creating a mobile app for 
+  - Bioengineering
+summary: A study of anaerobic digestion on rhotophytes for alternative energy production
 ---
 <h2>A study of anaerobic digestion on three different invasive species of red algae: Gracilaria salicornia, Kappaphycus spinosum, and Eucheuma spinosum</h2>
 <h3>Sreelakshmi Kutty</h3>
