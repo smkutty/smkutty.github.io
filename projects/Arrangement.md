@@ -17,9 +17,12 @@ summary: A string arrangement for 3 violins, 2 cellos, and 1 viola
 <p>Music has been a lifelong friend, and playing violin is and was equivalent to drinking water--necessary for optimal functionality. As senior year of highschool came running to a close, it only made sense that I put together an arrangement that described my class's journey. I chose songs that embodied the bittersweet emotions of saying goodbye to our class of 24 and sailing off to new adventures.. songs that were often sung in the hallways simply to be chaotic.</p>
 
 ## Pieces Chosen
-["Secrets"](https://www.youtube.com/watch?v=qHm9MG9xw1o) - by OneRepublic
-["I'll be there for you"] - The Remembrandts
-["The Time of my Life"](https://www.youtube.com/watch?v=4BQLE_RrTSU) - Bill Medley and Jennifer Warnes
+["Secrets"](https://www.youtube.com/watch?v=qHm9MG9xw1o) - by OneRepublic <p>
+  </p>
+["I'll be there for you"] - The Remembrandts <p>
+  </p>
+["The Time of my Life"](https://www.youtube.com/watch?v=4BQLE_RrTSU) - Bill Medley and Jennifer Warnes <p>
+  </p>
 ["Gone, Gone, Gone"](https://www.youtube.com/watch?v=oozQ4yV__Vw) - Philip Philips
 
 ## The Process and Challenges
@@ -28,3 +31,6 @@ It was certainly a challenge to write sheet music from pop songs that are often 
 ## The Songwriting Software
 <img class="ui medium left floated image" src="../images/musescore.png">
 I used a program called [Musescore](https://musescore.org/en) to develop the sheet music for the six parts. There were many hours of trial and error with other platforms, and this one turned out to be the best tool at the time. This particular software was more maleable than other programs I had tried and far more user friendly. Considering it is a free program that allows for the creation of 
+
+<p>A sample of the sheet music can be found here</p>
+
