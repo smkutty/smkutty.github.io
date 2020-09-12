@@ -10,3 +10,5 @@ labels:
   - Arts and Crafts
 summary: Knitting a patchwork style quilt - a souvenir from the pandemic
 ---
+
+[Sheep & Stitch](https://www.youtube.com/channel/UCXK_Yw8hCF-9oeccQP9Gs2g)
