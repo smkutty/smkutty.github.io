@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/gorilla.jpg
 title: Energy from Rhodophyes
-permalink: projects/Algae
+permalink: projects/Energy
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-03
 labels:
