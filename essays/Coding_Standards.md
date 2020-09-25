@@ -15,7 +15,7 @@ labels:
 
 ## The rules of language
 
-<img class="ui medium image" src="../images/language.jpg">
+<img class="ui medium right floated image" src="../images/language.jpg">
 
 <p>As a person who speaks five natural languages, writing instructions in programming languages feels more rigid and far less fluid. English, for example, offers a wide range of expression, whereas Java is quite literally robotic and monotone. Aside from the fact that natural languages belong to the human race as programming languages belong to computers, natural languages include emotion and freedom--it’s not just about giving someone instruction. In professional settings, there are guidelines to maximize efficiency. Pieces such as research papers, lab reports, and dissertations all have a specific format that must be followed, and failure to do so can result in disqualification. Rules such as having to use a particular citation format or labelling electric schematics are there to prevent error and confusion, particularly for projects or work that involve numerous pieces and that need to be handled by multiple people. There are countless examples of why formats exist, but it all boils down to accident prevention and efficiency. Whether it be Spanish, English, Java, or C++, there is always going to be a general format that must be followed when demonstrating knowledge or providing a solution. </p>
 
