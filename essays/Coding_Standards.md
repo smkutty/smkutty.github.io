@@ -23,12 +23,7 @@ labels:
 ## The rules of language
 <p>As a person who speaks five natural languages, writing instructions in programming languages feels more rigid and far less fluid. English, for example, offers a wide range of expression, whereas Java is quite literally robotic and monotone. Aside from the fact that natural languages belong to the human race as programming languages belong to computers, natural languages include emotion and freedom--it’s not just about giving someone instruction. In professional settings, there are guidelines to maximize efficiency. Pieces such as research papers, lab reports, and dissertations all have a specific format that must be followed, and failure to do so can result in disqualification. Rules such as </p>
 
-[A Bad Example](https://stackoverflow.com/questions/50946500/unable-to-redirect-from-one-page-to-another-page)
-
-<p>text</p>
-
-## Section 4
 <img class="ui medium left floated image" src="../images/techsupport.jpg">
-<p>text</p>
+
 
 
