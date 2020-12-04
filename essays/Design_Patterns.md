@@ -9,19 +9,19 @@ labels:
 ---
 # Design Patterns
 
-## SUBTITLE
+## Consider the following...
+<img class="ui medium right floated image" src="../images/wheel.jpg">
+<p>You live in a society in which the only means of transportation is by foot or horseback. One day after lugging bricks for several miles in the heat, you decide there must be another way to transport goods. You notice some kids trying to balance on piece of wood on top a ball, and you realize you could use this as a foundation. You put together a square piece of wood over identical spherical objects... with some modifications (unimportant for this illustration) you have made a simple wagon that can carry objects. At the same time, your friend Philip wonders how he can transport himself and his family with just two horses. Upon seeing your invention and hearing your inspirational story behind its design, he begins by putting together a wooden base over spherical objects. He expands it upwards to make a small carrier that, instead of being pulled by humans, could be pulled by horses. Meanwhile, your other friend, Cam, is trying to figure out how he can move his family too, but unlike Philip, Cam does not have any horses. He wonders if he could develop a contraption that could make this task easier. Upon seeing your invention, he puts together a base on top circular objects and creates a machine that turns that circular objects for him. With some additional modifications, Cam had built a car. Your approach sparks a revolution; platforms on circlular objects take over the world and become the foundation for moving items. Now that people had a basic guideline, there was no need to reinvent the wheel.</p>
+
+## What are design patterns?
 <img class="ui medium right floated image" src="../images/remotework.jpg">
-<p>Words go here</p>
+<p></p>
 
 ## SUBTITLE
 
 [A Good Example](https://stackoverflow.com/questions/39803237/build-hashset-from-a-vector-in-rust)
 <p>words go here</p>
 
-## A Not-so Smart Example
+## SUBTITLE
 [A Bad Example](https://stackoverflow.com/questions/50946500/unable-to-redirect-from-one-page-to-another-page)
-<p>Words go here</p>
-
-## Personal Experiences
-<img class="ui medium left floated image" src="../images/techsupport.jpg">
 <p>Words go here</p>
