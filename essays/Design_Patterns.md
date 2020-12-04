@@ -15,7 +15,7 @@ labels:
 
 ## What are design patterns?
 <p><b>"A design pattern provides a general reusable solution for the common problems occurs in software design"</b></p> [Source](https://www.geeksforgeeks.org/design-patterns-set-1-introduction/)
-<p>Similar to how Semantic UI assists in web/app development, design patterns foster efficiency for software development. However, design patterns provide protocols for how to approach certain problems instead of offering specific solutions (although that can be a side effect). Software developers oftern encounter similar issues across the board, meaning regardless of what the product may be, issues that are akin to one another, are inevitable. It is for this reason, software developers greatly favour the use of design patterns as it assists in constructing solutions that are "flexible, reusable, and maintainable".</p>
+<p>Similar to how Semantic UI assists in web/app development, design patterns foster efficiency for software development. However, design patterns provide protocols for how to approach certain problems instead of offering specific solutions (although that can be a side effect). Software developers oftern encounter similar issues across the board, meaning regardless of what the product may be, issues that are akin to one another, are inevitable. It is for this reason, software developers greatly favour the use of design patterns as it assists in constructing solutions that are "flexible, reusable, and maintainable". Design patterns are in no way mandatory and are simply general ideas that can be manipulated to suit a project's needs. Even a simple essay template or website layout can be considered design patterns.</p>
 
 ## Design patterns I have used in my code
 
