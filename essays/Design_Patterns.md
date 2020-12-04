@@ -7,7 +7,7 @@ date: 2020-12-03
 labels:
   - Learning
 ---
-# Design Patterns
+# A Software Developer's Bread and Butter
 
 ## Consider the following...
 <img class="ui medium right floated image" src="../images/wheel.jpg">
@@ -17,11 +17,8 @@ labels:
 <img class="ui medium right floated image" src="../images/remotework.jpg">
 <p></p>
 
-## SUBTITLE
+## Design patterns I have used in my code
 
 [A Good Example](https://stackoverflow.com/questions/39803237/build-hashset-from-a-vector-in-rust)
 <p>words go here</p>
 
-## SUBTITLE
-[A Bad Example](https://stackoverflow.com/questions/50946500/unable-to-redirect-from-one-page-to-another-page)
-<p>Words go here</p>
