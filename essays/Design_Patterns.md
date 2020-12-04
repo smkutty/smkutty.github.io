@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: The Art of Asking Questions
+title: Design Patterns
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-10
+date: 2020-12-03
 labels:
   - Learning
 ---
-# The Art of Asking Questions
+# Design Patterns
 
 ## SUBTITLE
 <img class="ui medium right floated image" src="../images/remotework.jpg">
