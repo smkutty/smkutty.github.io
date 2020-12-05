@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/violin2.jpg
-title: Arrangement "For U"
+title: Engage Manoa
 permalink: projects/EngageManoa
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-12
