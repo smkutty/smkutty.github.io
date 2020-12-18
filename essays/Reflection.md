@@ -17,13 +17,14 @@ labels:
 <p>IDEs are what make things like website development and application development intricate and complex. Instead of visiting painfully bland websites that have neon, Comic Sans font over a bright background, we can see beautifully built masterpieces made by people who may not even be software engineers.</p>
 
 <p><b>If you would like to see more information regarding some of the development environments mentioned above, please visit the links provided.</b></p>
-Environments for block coding: [Alice](https://www.alice.org/)  |  [MIT Scratch](https://scratch.mit.edu/)
+Environments for block coding: [Alice](https://www.alice.org/), [MIT Scratch](https://scratch.mit.edu/)
 
 Beginning line-by-line coding: [Processing](https://processing.org/download/)
 
-IDEs geared towards Java: [drJava](http://www.drjava.org/)  |  [Eclipse](https://www.eclipse.org/ide/)
+IDEs geared towards Java: [drJava](http://www.drjava.org/), [Eclipse](https://www.eclipse.org/ide/)
 
-IDEs geared towards web developemt and application building: [Sublime Text](https://www.sublimetext.com/)  |  [IntelliJ](https://www.jetbrains.com/idea/) 
+
+IDEs geared towards web developemt and application building: [Sublime Text](https://www.sublimetext.com/), [IntelliJ](https://www.jetbrains.com/idea/) 
 
 ## Agile Project Management
 
