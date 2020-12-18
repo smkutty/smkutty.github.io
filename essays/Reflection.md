@@ -27,8 +27,9 @@ IDEs geared towards Java: [drJava](http://www.drjava.org/), [Eclipse](https://ww
 IDEs geared towards web developemt and application building: [Sublime Text](https://www.sublimetext.com/), [IntelliJ](https://www.jetbrains.com/idea/) 
 
 ## Agile Project Management
-<p>I am no newbie to team projects, but when it comes to software development, working with a team is certainly still fresh. In a recent experience, I was able to develop a basic website application with three other peers and ultimately learn a new team work strategy that is paramount for software developers--agile project management. This strategy involves a straightforward methodology (as shown in the graphic below), which enables team projects</p>
-<img class="ui medium right floated image" src="../images/agileproject.jpg">
+<p>I am no newbie to team projects, but when it comes to software development, working with a team is certainly still fresh. In a recent experience, I was able to develop a basic website application with three other peers and ultimately learn a new team work strategy that is paramount for software developers--agile project management. This strategy involves a straightforward methodology (as shown in the graphic below), which enables team projects to efficiently lay out tasks with deadlines.</p>
+<img class="ui medium floated image" src="../images/agileproject.jpg">
+<p>For this project, we utilized a particular form of agile project management called issue driven project management. In this case, our work was broken down to a list of issues that team members could assign to others or themselves. So as to minimize chaos and confusion, it was important that a team member only work on one issue at a time. Once an issue is completed, it is moved to a separate list and "closed", indicating that the task can be reviewed. GitHub provides a space for team projects to </p>
 
 <h3>Sources</h3>
 Source 1: [s1](https://www.codecademy.com/articles/what-is-an-ide) 
