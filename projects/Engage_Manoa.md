@@ -11,10 +11,12 @@ labels:
 summary: ICS 314 Final Project - Create a web application
 ---
 
-## Significance and Solution
 <h3>Project Developers:</h3>
 <p>Jun Ho Im, Mikel Ishihara, Christian Pak, Sreelakshmi Kutty</p>
 [Engage Manoa Project Page](https://engage-manoa.github.io/)
+
+## Significance and Solution
+<p>The University of Hawaii at Manoa offers a multitude of clubs and organizations that are student led and operated. Each semester a festive club drive takes place at the well-known Campus Center, giving these groups a chance to advertise their activities and garner interest.</p>
 
 ## Development
 <p>words go here</p>
