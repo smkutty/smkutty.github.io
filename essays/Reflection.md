@@ -20,7 +20,8 @@ Beginning line-by-line coding: [Processing](https://processing.org/download/)
 
 IDEs geared towards Java: [drJava](http://www.drjava.org/)  |  [Eclipse](https://www.eclipse.org/ide/)
 
-editIDEs geared towards web developemt and application building: [Sublime Text](https://www.sublimetext.com/)  |  [IntelliJ](https://www.jetbrains.com/idea/) 
+IDEs geared towards web developemt and application building: [Sublime Text](https://www.sublimetext.com/)  |  [IntelliJ](https://www.jetbrains.com/idea/) 
+
 
 <p>Alice, MIT Scratch, Processing, Dr.Java, Sublime Text, Eclipse, VI, JSFiddle, IntelliJ</p>
 
