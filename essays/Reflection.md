@@ -28,7 +28,7 @@ IDEs geared towards web developemt and application building: [Sublime Text](http
 
 ## Agile Project Management
 
-<p>I am no newbie to team projects. And I am sure</p>
+<p>I am no newbie to team projects. </p>
 
 <h3>Sources</h3>
 Source 1: [s1](https://www.codecademy.com/articles/what-is-an-ide) 
