@@ -12,7 +12,7 @@ labels:
 summary: A a two year team research project focused on utilizing invasive macroalgae for sustainable applications
 ---
 
-## Novel Utilizations of Globally Invasive Algal Species: Environmental and Economical Implementations of Fermented Macroalgae</h2>
+## Novel Utilizations of Globally Invasive Algal Species: Environmental and Economical Implementations of Fermented Macroalgae
 <h3>Sreelakshmi Kutty and Ariana Kim</h3>
 <p>This project was done under the mentorship of Dr. Samir Khanal from the Molecular Biosciences and Bioengineering Department at UH Manoa. </p>
 
