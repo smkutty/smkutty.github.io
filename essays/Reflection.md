@@ -27,8 +27,8 @@ IDEs geared towards Java: [drJava](http://www.drjava.org/), [Eclipse](https://ww
 IDEs geared towards web developemt and application building: [Sublime Text](https://www.sublimetext.com/), [IntelliJ](https://www.jetbrains.com/idea/) 
 
 ## Agile Project Management
-
-<p>I am no newbie to team projects. </p>
+<p>I am no newbie to team projects, but when it comes to software development, working with a team is certainly still fresh. In a recent experience, I was able to </p>
+<img class="ui medium right floated image" src="../images/agileproject.jpg">
 
 <h3>Sources</h3>
 Source 1: [s1](https://www.codecademy.com/articles/what-is-an-ide) 
