@@ -28,8 +28,9 @@ IDEs geared towards web developemt and application building: [Sublime Text](http
 
 ## Agile Project Management
 <p>I am no newbie to team projects, but when it comes to software development, working with a team is certainly still fresh. In a recent experience, I was able to develop a basic website application with three other peers and ultimately learn a new team work strategy that is paramount for software developers--agile project management. This strategy involves a straightforward methodology (as shown in the graphic below), which enables team projects to efficiently lay out tasks with deadlines.</p>
-<img class="ui medium floated image" src="../images/agileproject.jpg">
-<p>For this project, we utilized a particular form of agile project management called issue driven project management. In this case, our work was broken down to a list of issues that team members could assign to others or themselves. So as to minimize chaos and confusion, it was important that a team member only work on one issue at a time. Once an issue is completed, it is moved to a separate list and "closed", indicating that the task can be reviewed. GitHub provides a space for team projects to </p>
+<img class="ui large floated image" src="../images/agileproject.jpg">
+<p>For this project, we utilized a particular form of agile project management called issue driven project management. In this case, our work was broken down to a list of issues that team members could assign to others or themselves. So as to minimize chaos and confusion, it was important that a team member only work on one issue at a time. Once an issue is completed, it is moved to a separate list and "closed", indicating that the task can be reviewed. GitHub provides a space for team projects to create three columns: 1) a list of all the initial tasks 2) a list where team members "claim" issues to work on and 3) a list to move completed issues.</p>
+<p>When working on a particular issue, team members can create new branches and work on their local desktops, using their development environments.</p>
 
 <h3>Sources</h3>
 Source 1: [s1](https://www.codecademy.com/articles/what-is-an-ide) 
