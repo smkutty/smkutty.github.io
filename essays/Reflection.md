@@ -15,9 +15,12 @@ labels:
 <p>My journey through computer science has since taken me to other offices--drJava, Eclipse, IntelliJ, and the simplest of all, VI. In each case, it was like entering a brand new work space that had a desk and cabinets filled with a plethora of tools. It is important to note that some offices are better for certain projects. You wouldn't want to use an office that was designed to offer appliances to harvest organs when you want to make clay sculpture. Alice and IntelliJ are exmaples of "integrated development environments" (IDEs). IDEs enable "programmers to consolidate the different aspects of writing a computer program" and "increase programmer productivity by combining common activities of writing software into a single application..".</p>
 <p><b>If you would like to see more information regarding some of the development environments mentioned above, please visit the links provided.</b></p>
 Environments for block coding: [Alice](https://www.alice.org/)  |  [MIT Scratch](https://scratch.mit.edu/)
+
 Beginning line-by-line coding: [Processing](https://processing.org/download/)
+
 IDEs geared towards Java: [drJava](http://www.drjava.org/)  |  [Eclipse](https://www.eclipse.org/ide/)
-IDEs geared towards web developemt and application building: [Sublime Text](https://www.sublimetext.com/)  |  [IntelliJ](https://www.jetbrains.com/idea/) 
+
+editIDEs geared towards web developemt and application building: [Sublime Text](https://www.sublimetext.com/)  |  [IntelliJ](https://www.jetbrains.com/idea/) 
 
 <p>Alice, MIT Scratch, Processing, Dr.Java, Sublime Text, Eclipse, VI, JSFiddle, IntelliJ</p>
 
