@@ -6,6 +6,8 @@ title: Reflecting on Coding Standards
 date: 2020-09-24
 labels:
   - Learning
+  - Coding Standards
+  - Software Engineering
 ---
 # Rules, rules, and more rules!
 
