@@ -5,6 +5,9 @@ title: Reflecting on Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-17
 labels:
+  - Agile Project Management
+  - Development Environment
+  - Software Engineering
   - Learning
 ---
 # It's more than just 1s and 0s
