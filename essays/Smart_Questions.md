@@ -6,6 +6,7 @@ title: The Art of Asking Questions
 date: 2020-09-10
 labels:
   - Learning
+  - Software Engineering
 ---
 
 ## Communication
