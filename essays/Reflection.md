@@ -29,8 +29,22 @@ IDEs geared towards web developemt and application building: [Sublime Text](http
 ## Agile Project Management
 <p>I am no newbie to team projects, but when it comes to software development, working with a team is certainly still fresh. In a recent experience, I was able to develop a basic website application with three other peers and ultimately learn a new team work strategy that is paramount for software developers--agile project management. This strategy involves a straightforward methodology (as shown in the graphic below), which enables team projects to efficiently lay out tasks with deadlines.</p>
 <img class="ui large floated image" src="../images/agileproject.jpg">
-<p>For this project, we utilized a particular form of agile project management called issue driven project management. In this case, our work was broken down to a list of issues that team members could assign to others or themselves. So as to minimize chaos and confusion, it was important that a team member only work on one issue at a time. Once an issue is completed, it is moved to a separate list and "closed", indicating that the task can be reviewed. GitHub provides a space for team projects to create three columns: 1) a list of all the initial tasks 2) a list where team members "claim" issues to work on and 3) a list to move completed issues.</p>
-<p>When working on a particular issue, team members can create new branches and work on their local desktops, using their development environments.</p>
+<p>According to the "Agile Manifesto" there are 12 Principles:</p>
+<p>1. There should be continuous delivery of valuable software to achieve higher levels of customer satisfaction as it is the top priority.</p>
+<p>2. It is possible to accommodate changes in the requirements even in the later phases of development.</p>
+<p>3. Deliver working software more frequently in a shorter time span.</p>
+<p>4. Daily collaboration among the business team and developers is must for the success of the project.</p>
+<p>5. Team members should have greater autonomy with greater support and trust.</p>
+<p>6. For conveying information to the development team, face-to-face interaction is a must.</p>
+<p>7. The working software can be the measure of the project’s progress.</p>
+<p>8. There should be a constant pace of development indefinitely to promote sustainable development.</p>
+<p>9. The main focus is on good design and technical excellence.</p>
+<p>10. Progress is dependent on simplicity.</p>
+<p>11. To achieve the best possible architecture and designs, self-organizing teams are required.</p>
+<p>12. The teams should focus on continuous improvement and should be able to adapt to changes for greater effectiveness.</p>
+
+
+<p>For this project, we utilized a particular form of agile project management called issue driven project management. In this case, our work was broken down to a list of issues that team members could assign to others or themselves. So as to minimize chaos and confusion, it was important that a team member only work on one issue at a time. Once an issue is completed, it is moved to a separate list and "closed", indicating that the task can be reviewed. GitHub provides a space for team projects to create three columns: 1) a list of all the initial tasks 2) a list where team members "claim" issues to work on and 3) a list to move completed issues. When working on a particular issue, team members can create new branches and work on their local desktops, using their development environments. This approach is a driving force behind software development and is even something I have seen my father, a software engineer, use a on a daily basis. </p>
 
 <h3>Sources</h3>
 Source 1: [s1](https://www.codecademy.com/articles/what-is-an-ide) 
