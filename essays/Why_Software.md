@@ -6,6 +6,7 @@ title: Why Software Engineering?
 date: 2020-09-04
 labels:
   - Learning
+  - Software Engineering
 ---
 
 <img class="ui small left floated image" src="../images/innovate.png">
