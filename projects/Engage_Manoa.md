@@ -23,10 +23,10 @@ See the user guide for detailed information on how each page works: [User Guide]
 ## Development
 <p>My project partners and I broke the development of this application into three portions (what we called milestones), each focusing on a certain aspect. For our first milestone, we concentrated on building the actual application, which made possible by using a previously completed class project. By modifying the source code and database schema of the previous project, we were able to create the pages and components necessary for Engage Manoa. Milestone one was certainly the simplest portion as we utilized design patterns to streamline the process. Milestone two was a little trickier. My project partners worked to replace the filler data and uploaded existing data from UH Manoa's clubs/organization list. They also updated the filter search function for users to find clubs based on their interests. The final milestone was dedicated to fixing the user interface. While my contribution to the second milestone was limited, I was able to provide more work for this list of tasks. My previous (and brief) experience with website development in high school gave me some ideas as to how we could update the color scheme to be more pleasing to the eye. We had initially chosen a default green color as our focus was more centered around the data and components. Below are the before and after pictures of one of the pages. </p>
 
-<img class="ui medium floated image" src="../images/emadmin1.jpg"> 
-<img class="ui medium floated image" src="../images/emadmin2.jpg">
+<img class="ui medium image" src="../images/emadmin1.jpg"> 
+<img class="ui medium image" src="../images/emadmin2.jpg">
 
-<p></p>
+
 Check out the three milestones our team devised to achieve this project: [Development](https://engage-manoa.github.io/#development) 
 
 Go through the Developer Guide for detailed information on the tools we used to build this application: [Developer Guide](https://engage-manoa.github.io/#developer-guide)
