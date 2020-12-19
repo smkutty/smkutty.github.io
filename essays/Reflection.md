@@ -9,6 +9,10 @@ labels:
 ---
 # It's more than just 1s and 0s
 
+## A Compounded Experience
+
+<p>During my brief experience with software engineering, I realized that the gield involves far more than just coding. While I learned the language Javascript and strengthened my knowledge in HTML/CSS, the most important personal lessons were not even about coding skills. In addition to learning how to use UI frameworks (UI Semantic and React), I delved into the world of software development and the tools used to do so. Two of these tools had a profound impact--development environments and agile project management.</p>
+
 ## Development Environments
 
 <p>When I first delved into the world of computer science and programming, I had no idea what one needed to create a program. My first ever programming assingment was to download a software called "Alice", and truth be told, I was incredibly confused as to why I would need this strange program. I was instructred to move blocks labelled with "if/else", "for", etc--basic functions that we built upon to create methods, objects, and so forth. However, I still did not understand how one would develop a software program by writing lines of code; after all, computer science was just about writing gibberish and spitting out some cool product, right? After a brief stint with "MIT Scratch", I finally approached a program called "Processing" in which I attempted line-by-line coding for the first time. I was surprised that the concept was the same as dragging blocks to create code. The only real difference was I was writing the code myself. I then reflected on "Alice" and how we could make different segments that called on other segments that called on other segments... esentially creating cohesive methods and functions. Alice was my first love affair with development environments, and it shaped my understanding of how software engineering works. Alice, MIT Scratch, and Processing were just different offices with specific layouts and tools that could create all sorts of projects.</p>
@@ -28,8 +32,8 @@ IDEs geared towards web developemt and application building: [Sublime Text](http
 
 ## Agile Project Management
 <p>I am no newbie to team projects, but when it comes to software development, working with a team is certainly still fresh. In a recent experience, I was able to develop a basic website application with three other peers and ultimately learn a new team work strategy that is paramount for software developers--agile project management. This strategy involves a straightforward methodology (as shown in the graphic below), which enables team projects to efficiently lay out tasks with deadlines.</p>
-<img class="ui large floated image" src="../images/agileproject.jpg">
-<p>According to the "Agile Manifesto" there are 12 Principles:</p>
+<img class="ui large image" src="../images/agileproject.jpg">
+<p><b>According to the "Agile Manifesto" there are 12 Principles:</b></p>
 <p>1. There should be continuous delivery of valuable software to achieve higher levels of customer satisfaction as it is the top priority.</p>
 <p>2. It is possible to accommodate changes in the requirements even in the later phases of development.</p>
 <p>3. Deliver working software more frequently in a shorter time span.</p>
@@ -44,8 +48,9 @@ IDEs geared towards web developemt and application building: [Sublime Text](http
 <p>12. The teams should focus on continuous improvement and should be able to adapt to changes for greater effectiveness.</p>
 
 
-<p>For this project, we utilized a particular form of agile project management called issue driven project management. In this case, our work was broken down to a list of issues that team members could assign to others or themselves. So as to minimize chaos and confusion, it was important that a team member only work on one issue at a time. Once an issue is completed, it is moved to a separate list and "closed", indicating that the task can be reviewed. GitHub provides a space for team projects to create three columns: 1) a list of all the initial tasks 2) a list where team members "claim" issues to work on and 3) a list to move completed issues. When working on a particular issue, team members can create new branches and work on their local desktops, using their development environments. This approach is a driving force behind software development and is even something I have seen my father, a software engineer, use a on a daily basis. </p>
+<p>For this project, we utilized a particular form of agile project management called issue driven project management. In this case, our work was broken down to a list of issues that team members could assign to others or themselves. So as to minimize chaos and confusion, it was important that a team member only work on one issue at a time. Once an issue is completed, it is moved to a separate list and "closed", indicating that the task can be reviewed. GitHub provides a space for team projects to create three columns: 1) a list of all the initial tasks 2) a list where team members "claim" issues to work on and 3) a list to move completed issues. When working on a particular issue, team members can create new branches and work on their local desktops, using their development environments. This approach is a driving force behind software development and is even something I have seen my father, a software engineer, use a on a daily basis. What I find most impactful from this experience is that this strategy is applicable beyond the world of software development, and I can honestly say that I plan on utilizing this approach in other team based projects. [s2]</p>
 
 <h3>Sources</h3>
 Source 1: [s1](https://www.codecademy.com/articles/what-is-an-ide) 
+Source 2: [s2](https://reqtest.com/agile-blog/agile-methodology-tutorial/)
 
