@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions
+title: The Art of Asking Questions
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-10
 labels:
   - Learning
 ---
-# The Art of Asking Questions
 
 ## Communication
 <img class="ui medium right floated image" src="../images/remotework.jpg">
