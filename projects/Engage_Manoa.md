@@ -28,6 +28,8 @@ See the user guide for detailed information on how each page works: [User Guide]
 
 Check out the three milestones our team devised to achieve this project: [Development](https://engage-manoa.github.io/#development) 
 
+Go through the Developer Guide for detailed information on the tools we used to build this application: [Developer Guide](https://engage-manoa.github.io/#developer-guide)
+
 ## A Brief Preview
 <p>words god here</p>
 
