@@ -31,8 +31,7 @@ Check out the three milestones our team devised to achieve this project: [Develo
 
 Go through the Developer Guide for detailed information on the tools we used to build this application: [Developer Guide](https://engage-manoa.github.io/#developer-guide)
 
-## A Brief Preview
-<p>words god here</p>
-
-<img class="ui small left floated image" src="../images/engage-manoa-landing.jpg">
+## Conclusion
+<img class="ui small left floated image" src="../images/emlanding.jpg">
+<p>This project was by far a phenomenal experience. While I certainly learned new coding skills and techniques, the most impactful aspect was learning how to work with a team of people I had barely spoken to prior to this project. We ultimately had to take advtnage of each other's strengths but also learn our own weaknesses. As a female in computer science, I have found that speaking up and being able to communicate is more important for me than my male counterparts; and I definitely noticed that in this group project. The project we produced was a team effort involving different backgrounds, and it is worth noting that only two of us are majoring in computer science. This diversity truly helped us gain alternative perspectives and made the overall project quite exciting.</p>
 
