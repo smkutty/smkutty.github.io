@@ -28,5 +28,5 @@ Check out the three milestones our team devised to achieve this project: [Develo
 ## A Brief Preview
 <p>words god here</p>
 
-<img class="ui small left floated image" src="../images/eucheuma.jpg">
+<img class="ui small left floated image" src="../images/engage-manoa-landing.jpg">
 
