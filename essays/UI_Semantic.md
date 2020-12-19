@@ -5,6 +5,8 @@ title: Reflecting on UI Semantic
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-08
 labels:
+  - UI Frameworks
+  - Software Engineering
   - Learning
 ---
 # Why Reinvent the Wheel?
