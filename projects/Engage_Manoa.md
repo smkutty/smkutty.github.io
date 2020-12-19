@@ -8,6 +8,8 @@ permalink: projects/EngageManoa
 date: 2020-12-12
 labels:
   - Web Development
+  - Software Engineering
+  - Agile Project Management
 summary: ICS 314 Final Project - Create a web application
 ---
 
