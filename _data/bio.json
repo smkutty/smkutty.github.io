@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Sreelakshmi Kutty",
-    "label": "Student",
+    "label": "Associate IT Analyst II",
     "picture": "https://smkutty.github.io/images/meagain.JPG",
-    "email": "kuttys@hawaii.edu",
+    "email": "smkutty98@gmail.com",
     "phone": "808-779-7698",
     "website": "https://smkutty.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am currently an Associate IT Analyst for HOCU, specializing in Cybersecurity and Help Desk management.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -29,23 +29,24 @@
   },
   "interests": [
     {
-      "name": "Computer Science",
+      "name": "Bioinformatics",
       "keywords": [
-        "Data Science",
-        "Bioinformatics"
+        "Data Analytics",
+        "Environmental Engineering",
+        "Computer Science"
       ]
     },
     {
-      "name": "Sustainability",
+      "name": "Data Analytics",
       "keywords": [
-        "Environmental engineering"
+        "Data science"
       ]
     },
     {
-      "name": "Medical Technician",
+      "name": "Environmental Engineering",
       "keywords": [
-        "Emergency Medical Technician",
-        "Surgical Technician"
+        "Sustainability",
+        "Conservation"
       ]
     }
   ],
@@ -66,7 +67,9 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows 10",
         "MacOS",
+        "iOS",
         "React",
         "UI Semantic"
       ]
