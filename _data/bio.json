@@ -4,9 +4,9 @@
     "label": "Associate IT Analyst II",
     "picture": "https://smkutty.github.io/images/meagain.JPG",
     "email": "smkutty98@gmail.com",
-    "phone": "808-779-7698",
+    "phone": "upon request",
     "website": "https://smkutty.github.io",
-    "summary": "I am currently an Associate IT Analyst for HOCU, specializing in Cybersecurity and Help Desk management.",
+    "summary": "I am currently an Associate IT Analyst for HOCU, specializing in Cybersecurity and Help Desk management. I am also attending University of Arizona as a candidate for a B.S. in Bioinformatics.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -88,17 +88,42 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa",
-      "area": "Computer Science (expected graduation Fall, 2021)",
+      "institution": "University of Arizona",
+      "area": "candidate for a degree in Bioinformatics",
       "studyType": "B.S.",
-      "startDate": "2019-08-21",
+      "startDate": "2023-08",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": ["Data Mining", "Computational Programming with Python", "Statistics and Data Visualization with R"
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa",
+      "area": "50 credits towards a degree in Civil Environmental Engineering (and a minor in Computer Science)",
+      "studyType": "B.S.",
+      "startDate": "2016-08",
+      "endDate": "2021-05",
+      "gpa": "",
+      "courses": ["Software Engineering", "Vector Calculus", "Program Structure with C/C++", "Programming with Java", "Organic Chemistry"
       ]
     }
   ],
   "work": [
+    {
+      "company": "Oceanit",
+      "position": "Help Desk Technician",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2020-02-11",
+      "endDate": "2021-06-30",
+      "summary": "",
+      "highlights": [
+        "Ticket-based help desk system (5 to 40 tickets per day)", 
+        "Furnished technical support for all UH campus affiliates remotely and in-person",
+        "Troubleshooted software and hardware for MacOS, iOS, Windows 7-10, and Android devices",
+        "Assisted in monitoring networks and data centers"
+
+      ]
+    },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
@@ -107,8 +132,11 @@
       "endDate": "2021-06-30",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Ticket-based help desk system (5 to 40 tickets per day)", 
+        "Furnished technical support for all UH campus affiliates remotely and in-person",
+        "Troubleshooted software and hardware for MacOS, iOS, Windows 7-10, and Android devices",
+        "Assisted in monitoring networks and data centers"
+
       ]
     },
     {
