@@ -92,14 +92,14 @@
       "area": "candidate for a degree in Bioinformatics",
       "studyType": "B.S.",
       "startDate": "2023-08",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2025-08",
+      "gpa": "3.86",
       "courses": ["Data Mining", "Computational Programming with Python", "Statistics and Data Visualization with R"
       ]
     },
     {
       "institution": "University of Hawaii at Manoa",
-      "area": "50 credits towards a degree in Civil Environmental Engineering (and a minor in Computer Science)",
+      "area": "45 credits towards a degree in Civil Environmental Engineering (and a minor in Computer Science)",
       "studyType": "B.S.",
       "startDate": "2016-08",
       "endDate": "2021-05",
