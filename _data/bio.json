@@ -99,7 +99,7 @@
     },
     {
       "institution": "University of Hawaii at Manoa",
-      "area": "45 credits towards a degree in Civil Environmental Engineering (and a minor in Computer Science)",
+      "area": "45 credits towards a degree in Biological Environmental Engineering (and a minor in Computer Science)",
       "studyType": "B.S.",
       "startDate": "2016-08",
       "endDate": "2021-05",
@@ -109,6 +109,30 @@
     }
   ],
   "work": [
+    {
+      "company": "Saber Astronautics",
+      "position": "Software Engineering intern",
+      "website": "insert",
+      "startDate": "insert",
+      "endDate": "insert",
+      "summary": "insert",
+      "highlights": [
+        "insert"
+
+      ]
+    },
+    {
+      "company": "Honolulu Federal Credit Union",
+      "position": "Associate IT Analyst II",
+      "website": "insert",
+      "startDate": "insert",
+      "endDate": "insert",
+      "summary": "insert",
+      "highlights": [
+        "insert"
+
+      ]
+    },
     {
       "company": "Oceanit",
       "position": "Help Desk Technician",

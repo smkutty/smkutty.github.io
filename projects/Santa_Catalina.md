@@ -73,11 +73,11 @@ burn zones and subsequently use them for change detection analyses. </p>
 
 ### Binary Change Detection
 
-<p>n order to determine temporal changes across an area, we can employ change detection methods on ArcGIS. One set of methods is binary change detection, which produces a “change or no change” result. The type of binary change detection used here is image diAerencing. This involves applying basic algebra to rasters from diAerent time periods to identify changes. Because NDVI and NBR may sometimes have outliers beyond the -1 to 1 scale, we need to normalize the raster sets such that raster values all fall in this range. 
+<p>n order to determine temporal changes across an area, we can employ change detection methods on ArcGIS. One set of methods is binary change detection, which produces a “change or no change” result. The type of binary change detection used here is image diAerencing. This involves applying basic algebra to rasters from diAerent time periods to identify changes. Because NDVI and NBR may sometimes have outliers beyond the -1 to 1 scale, we need to normalize the raster sets such that raster values all fall in this range.</p>
 
-<b>NDVI Difference:</b> Subtracting rasters (before – after) produces a new raster where numbers close to 1 are positive changes in vegetation (regrowth) and numbers closer to -1 are losses in vegetation. 
+<p><b>NDVI Difference:</b> Subtracting rasters (before – after) produces a new raster where numbers close to 1 are positive changes in vegetation (regrowth) and numbers closer to -1 are losses in vegetation.</p>
 
-<b>NBR Dfference:</b> The process for NBR is similar. Using the raster calculator tool, we subtract the postfire layer from the prefire layer (before – after) to create a new raster. However, the resulting values between -1 and 1 can tell us additional information summarized in the table below. (Note: ΔNBR means change in NBR) </p>
+<p><b>NBR Dfference:</b> The process for NBR is similar. Using the raster calculator tool, we subtract the postfire layer from the prefire layer (before – after) to create a new raster. However, the resulting values between -1 and 1 can tell us additional information summarized in the table below. (Note: ΔNBR means change in NBR) </p>
 
 
 ### MODIS NDVI Time Series
@@ -88,3 +88,13 @@ burn zones and subsequently use them for change detection analyses. </p>
 
 ## Conclusion
 
+<p>The maps generated through ArcGIS allowed for visual investigation of vegetation recovery and identification of burn zones. Data collected from MODIS generated graphs that supplement the maps and provide NDVI values to better understand changes in vegetation quality. Important to highlight is Figure 13, which showed the diAerence in NDVI values between 2002 and 2020. Region A has large portions of purple, demonstrating loss. However, Figure 10 appears to establish that vegetation recuperated in Region A. This ultimately provides evidence that while vegetation area recovered after the Aspen Fire, the quality in 2020 did not match that of 2002. When paired with data from MODIS, we can see that the NDVI peaks do not return to their original values before summer of 2002. 
+
+<p>This analysis does not involve corrections for geometry or weather. For proper change detection analyses, it is important to apply corrections for weather issues such as cloud coverage or rain, as this may affect NDVI values. Because we did not correct the pre- or post-images, confounding variables such as climate events could have skewed data collected on certain pixels. Another component that may be skewed is the MODIS time series. The chosen coordinate covers a region that is 6.25 km by 6.25 km (3.88 miles) in dimension. This box does not cover the entirety of the study area, so the data may be missing fluctuations and relevant information.</p>
+
+<p>Additional analyses can include thematic change detection through pre- and post-classification tools through ArcGIS. This would involve either supervised or unsupervised classification to determine how land cover has changed in terms of identified classes. Alongside ground truth data, this could be a powerful and eAective method to analyze vegetation recovery. We can also use additional Landsat data from different years and months to create supplemental maps to show granular temporal changes.</p>
+
+<p>While the data suggests that vegetation mostly recovered by area, we can also see that the quality did not appear to recuperate.Unfortunately, the Santa Catalina Mountains experienced a third highly destructive fire in June of 2020, just a month after the 2020 post-fire data used for this project. A possible extension of this project is investigating vegetation recovery following all three fires to 
+determine overall flora changes and predicting recovery patterns across regions.  </p>
+
+## References
